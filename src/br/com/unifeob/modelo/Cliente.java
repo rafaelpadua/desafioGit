@@ -15,8 +15,9 @@ public class Cliente {
         return codigo;
     }
 
+    // o erro esta aqui - falta ;
     public void setCodigo(Long codigo) {
-        this.codigo = codigo
+        this.codigo = codigo;
     }
 
     
